@@ -4,7 +4,7 @@ email: yvasquez8@ucmerced.edu
 description: > # this means to ignore newlines until "baseurl:"
   NRT-ICGE, UC Merced 
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://yumaryvasquez.github.io/CheckerSpotButterflies" # the base hostname & protocol for your site
+url: "https://yumaryvasquez.github.io/CheckerSpotButterflies/" # the base hostname & protocol for your site
 twitter_username: yumaryvasquez
 github_username:  yumaryvasquez
 permalink: /blog/:year/:month/:title.html
