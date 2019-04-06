@@ -11,7 +11,7 @@ layout: default
   
   
 
-<img src="/assets/butterfly.jpg" alt="Drawing" style="width: 400px;"/>  <br>
+<img src="https://github.com/yumaryvasquez/CheckerSpotButterflies/tree/master/assets/butterfly.jpg" alt="Drawing" style="width: 400px;"/>  <br>
 
 
 
