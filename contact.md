@@ -1,7 +1,7 @@
 ---
 layout: page
-title: contact
-permalink: /CheckerSpotButterflies/contact/
+title: Contact
+permalink: /contact/
 ---
 
 
