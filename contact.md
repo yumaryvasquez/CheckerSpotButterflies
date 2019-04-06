@@ -4,6 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-
-
-YO CONTACT US 
+If you have any questions, feel free to contact Yumary Vasquez through twitter or email. 
