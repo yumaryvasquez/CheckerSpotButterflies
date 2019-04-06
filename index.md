@@ -6,7 +6,7 @@
   
   
 
-### Sentiment Analysis
+<img src="/assets/butterfly.jpg" alt="Drawing" style="width: 200px;"/><br> 
 
 
 
