@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: contact
 permalink: /CheckerSpotButterflies/contact/
 ---
 
