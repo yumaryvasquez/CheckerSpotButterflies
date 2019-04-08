@@ -5,9 +5,9 @@ permalink: /methods/
 ---
 
 
-##Tweet Scraping
+## Tweet Scraping
 
 
 
-##Sentiment Analysis in R
+## Sentiment Analysis in R
 
