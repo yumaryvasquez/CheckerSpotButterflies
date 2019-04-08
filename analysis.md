@@ -4,4 +4,4 @@ title: Analysis
 permalink: /analysis/
 ---
 
-<img src="assets/index.html" alt="Drawing" style="width: 400px;"/>  <br>
+<img src="assets/index.html" alt="interactive" style="width: 400px;"/>  <br>
