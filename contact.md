@@ -20,6 +20,6 @@ If you have any questions...
 
 <br>
 
-<li>Yumary Vasquez <br> PhD Student in Quantitative Systems Biology, UC Merced<br> email?</li>
+<li>Yumary Vasquez <br> PhD Student in Quantitative Systems Biology, UC Merced<br> yvasquez8[at]ucmerced.edu</li>
 
 </ul>
