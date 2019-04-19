@@ -7,11 +7,11 @@ permalink: /contact/
 
 
 <img src="assets/emotions.png" alt="emotions" style="width: 400px;"/>  <br>
-Sadness: Maia 
-Anger: Emilio
-Joy: Nick
-Disgust: Yumary
-Fear: External Advisor
+Sadness: Maia <br>
+Anger: Emilio <br>
+Joy: Nick <br>
+Disgust: Yumary <br>
+Fear: External Advisor <br>
 
 If you have any questions...
 
