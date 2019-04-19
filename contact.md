@@ -4,6 +4,15 @@ title: Contact
 permalink: /contact/
 ---
 
+
+
+<img src="assets/emotions.png" alt="emotions" style="width: 400px;"/>  <br>
+Sadness: Maia 
+Anger: Emilio
+Joy: Nick
+Disgust: Yumary
+Fear: External Advisor
+
 If you have any questions...
 
 <ul> 
