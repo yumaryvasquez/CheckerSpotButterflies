@@ -8,15 +8,15 @@ If you have any questions...
 
 <ul> 
 
-<li>Emilio Lobato <br> PhD Student in Cognitive Science, UC Merced <br> email?</li>
+<li>Emilio Lobato <br> PhD Student in Cognitive Science, UC Merced <br> elobato[at]ucmerced.edu</li>
 
 <br>
 
-<li>Maia Powell <br> PhD Student in Applied Mathematics, UC Merced <br> email?</li>
+<li>Maia Powell <br> PhD Student in Applied Mathematics, UC Merced <br> mpowell[at]@ucmerced.edu</li>
 
 <br>
 
-<li>Nick St. Clair <br> PhD Student in Physics, UC Merced <br> email?</li>
+<li>Nick St. Clair <br> PhD Student in Physics, UC Merced <br>nstclair[at]ucmerced.edu</li>
 
 <br>
 
