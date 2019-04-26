@@ -6,7 +6,7 @@ permalink: /contact/
 
 
 
-<img src="assets/emotions-2.jpg" alt="emotions" style="width: 400px;"/>  <br>
+<img src="assets/emotions-3.jpg" alt="emotions" style="width: 400px;"/>  <br>
 Sadness: Maia <br>
 Anger: Emilio <br>
 Joy: Nick <br>
