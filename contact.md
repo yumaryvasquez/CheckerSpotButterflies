@@ -6,12 +6,12 @@ permalink: /contact/
 
 
 
-<img src="assets/emotions.jpg" alt="emotions" style="width: 400px;"/>  <br>
+<img src="assets/emotions-2.jpg" alt="emotions" style="width: 400px;"/>  <br>
 Sadness: Maia <br>
 Anger: Emilio <br>
 Joy: Nick <br>
 Disgust: Yumary <br>
-Fear: External Advisor <br>
+Fear: Dean Zatz <br>
 
 If you have any questions...
 
