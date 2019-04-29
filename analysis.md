@@ -12,4 +12,4 @@ permalink: /analysis/
 
 
 
-<img src="assets/Rplot02.pdf" alt="emotions" style="width: 400px;"/>  <br>
+<img src="assets/Rplot02.jpg" alt="emotions" style="width: 400px;"/>  <br>
