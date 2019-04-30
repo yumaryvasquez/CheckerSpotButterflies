@@ -11,4 +11,4 @@ Tweets were scraped using this open source [TweetScraper](http://github.com/jonb
 
 # Sentiment Analysis in R
 
-Code used to perform the sentiment analysis is linked here. (link it at here). 
+Code used to perform the sentiment analysis is linked [here](). 
