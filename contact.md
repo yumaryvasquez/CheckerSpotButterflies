@@ -7,11 +7,6 @@ permalink: /contact/
 
 
 ![](assets/emotion-2.jpg) <br>
-Sadness: Maia <br>
-Anger: Emilio <br>
-Joy: Nick <br>
-Disgust: Yumary <br>
-Fear: Dean Zatz <br>
 
 If you have any questions...
 
