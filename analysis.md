@@ -5,7 +5,7 @@ permalink: /analysis/
 ---
 
 
-Our presentation given to the ICGE course with presenter notes can be seen <a class="page-link" href="/assets/Final Presentation-2.pdf">here</a>
+Our presentation given to the ICGE course with presenter notes can be seen <a class="page-link" href="/CheckerSpotButterflies/assets/Final Presentation-2.pdf">here</a>
 
 
 
